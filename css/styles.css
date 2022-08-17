@@ -1,0 +1,118 @@
+body {
+  background-color: #F4F9F9;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-size: 562%;
+  font-family: Caveat;
+  color: #66BFBF;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: Montserrat;
+  font-weight : lighter;
+}
+
+p {
+  font-family: Montserrat;
+  font-size: 1.5em;
+  font-weight: 500;
+}
+
+h3 {
+  font-family: Montserrat;
+  color: #11999E;
+}
+
+hr{
+  border-top: 5px dotted;
+  width: 5%;
+  color: #E1E5EA;
+
+}
+
+.skillp {
+  font-size: 1em;
+}
+
+.para {
+  color: #66BFBF;
+  font-family: Montserrat;
+}
+
+.btn{
+  font-family: Caveat;
+}
+
+.firstdiv {
+  background-color: #F4F9F9;
+  position: relative;
+  padding-top: 70px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.middlediv {}
+
+.bottomdiv {}
+
+.middle-container {
+  padding-top: 50px;
+}
+
+.bottom-container {
+  padding-top: 50px;
+  font-family: Caveat;
+
+}
+img {
+  display: inline-block;
+}
+
+.secondcloud {
+  position: absolute;
+  left: 250px;
+}
+
+.topcloud {
+  position: relative;
+  left: 350px;
+}
+
+.firsth1 {
+  margin-bottom: -10px;
+}
+
+.picofme {
+  height: 200px;
+  width: 200px;
+  margin-top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skills {
+
+  margin: 0 auto;
+}
+
+.f1-img{
+widht: 5%;
+float: right;
+
+}
+
+.code-img{
+  width: 50%;
+  float: left;
+}
